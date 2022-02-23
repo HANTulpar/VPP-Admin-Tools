@@ -82,8 +82,8 @@ VSTR_TOOLTIP_TPP,teleport to coordinates,koordinatlara ışınlanmak
 VSTR_TOOLTIP_TPT,teleport to a position saved in your presets,ön ayarlarınızda kayıtlı bir pozisyona ışınlayın
 VSTR_TOOLTIP_GOTO,teleport to a player by name,oyuncuya isme göre ışınlanma
 VSTR_TOOLTIP_RETURN,teleport player by name to previously cached position,Oyuncuyu önceden önbelleğe alınmış pozisyona adıyla ışınla
-VSTR_TOOLTIP_BRING,teleport player by name to you,teleport player by name to you
-VSTR_TOOLTIP_HEAL,heal player by name or self,oyuncuyu adıyla veya kendi kendine iyileştir
+VSTR_TOOLTIP_BRING,teleport player by name to you,Oyuncuyu adıyla ışınla
+VSTR_TOOLTIP_HEAL,heal player by name or self,Oyuncuyu adıyla veya kendi kendine iyileştir
 VSTR_TOOLTIP_KILL,kill player by name or self,oyuncuyu ismiyle veya kendi kendine öldür
 VSTR_TOOLTIP_STRIP,strip player gear by name or self,oyuncu ekipmanını isme veya kendine göre soyun
 VSTR_TOOLTIP_CLEAR,clears commands history,komut geçmişini temizler
